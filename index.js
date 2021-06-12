@@ -22,6 +22,8 @@ const nom = () => {
     _clearConsole()
 
     print(frame)
+    console.log('')
+    console.log('')
   }
 
   const printInterval = setInterval(printFrames, 100)
