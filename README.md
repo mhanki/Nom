@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mhanki/Nom/master/assets/nom.jpg" > 
+![screenshot of the terminal turtle](https://raw.githubusercontent.com/mhanki/Nom/master/assets/nom.jpg)
 
 # Nom
 
@@ -15,4 +15,4 @@ npm install -g @mhanki/nom
 
 From now on, every time you happen to hit that dreaded "o" instead of "p" when working with npm, you will feed this turtle instead of being prompted with a bland "command not found" message. Enjoy! 🍓
 
-<img src="https://raw.githubusercontent.com/mhanki/Nom/master/assets/nom.gif" >
+![gif of the terminal turtle being "fed"](https://raw.githubusercontent.com/mhanki/Nom/master/assets/nom.gif)
