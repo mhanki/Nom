@@ -1,6 +1,6 @@
 {
   "name": "@mhanki/nom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add a hungry turtle to your terminal and feed it every time you mistype 'npm' as 'nom'",
   "author": "Meike Hankewicz",
   "license": "ISC",
