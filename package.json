@@ -16,6 +16,12 @@
     "script",
     "ascii"
   ],
+  "files": [
+    "README.md",
+    "index.js",
+    "print.js",
+    "ascii.js"
+  ],
   "main": "index.js",
   "type": "module",
   "bin": {
