@@ -13,6 +13,6 @@ npm install -g @mhanki/nom
 
 ## Usage
 
-From now on, every time you happen to hit that dreaded "o" instead of "p" when working with npm, you will feed this little turtle instead of being prompted with a bland "command not found" message. Enjoy! 🍓
+From now on, every time you happen to hit that dreaded "o" instead of "p" when working with npm, you will feed this turtle instead of being prompted with a bland "command not found" message. Enjoy! 🍓
 
 <img src="https://raw.githubusercontent.com/mhanki/Nom/master/assets/nom.gif" >
